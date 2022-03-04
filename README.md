@@ -13,7 +13,7 @@ Stats :
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Japu431&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Japu431&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Japu431&layout=compact&show_icons=true&theme=radical)]
 
 
 
