@@ -3,7 +3,7 @@
 My name is Matheus 👨🏻‍💻
 
 - 🔭 I'm currently studying 
-- 🌱 I’m currently learning Javascript(nodejs) / Java / C#
+- 🌱 I’m currently learning Javascript(nodejs) / C#
 - 👯 I’m looking to collaborate on backend projects for beginners
 - 🤔 I’m looking for help with Javascript(Nodejs)
 - 📫 How to reach me: Instagram : https://www.instagram.com/japolinha_/
