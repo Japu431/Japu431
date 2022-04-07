@@ -11,9 +11,13 @@ My name is Matheus 👨🏻‍💻
 
 Stats : 
 
+
+
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Japu431&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Japu431&layout=compact&show_icons=true&theme=radical)
 
-
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
