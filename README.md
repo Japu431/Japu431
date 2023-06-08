@@ -3,9 +3,8 @@
 My name is Matheus 👨🏻‍💻
 
 - 🔭 I'm currently studying 
-- 🌱 I’m currently learning Javascript(nodejs) / C#
-- 👯 I’m looking to collaborate on backend projects for beginners
-- 🤔 I’m looking for help with Javascript(Nodejs)
+- 🌱 I’m currently learning Data Science 
+- 👯 I’m looking to collaborate on Data Analysis projects for beginners
 - 📫 How to reach me: Instagram : https://www.instagram.com/yskteteys_/
 - ⚡ Fun fact: I love to study and help in what I can... 🙂
 
