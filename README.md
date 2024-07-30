@@ -5,7 +5,7 @@ My name is Matheus 👨🏻‍💻
 - 🔭 I'm currently studying 
 - 🌱 I’m currently learning Data Science 
 - 👯 I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me: Instagram : https://www.instagram.com/yskteteys_/
+- 📫 How to reach me: Linkedin : [https://linkedin.com/matheus-yusuke](https://www.linkedin.com/in/matheus-yusuke/)
 - ⚡ Fun fact: I love to study and help in what I can... 🙂
 
 Stats : 
