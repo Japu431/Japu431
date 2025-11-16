@@ -1,22 +1,64 @@
-## Hello !! 👋 
-## Welcome to my profile .
-My name is Matheus 👨🏻‍💻
+👋 Hey, I’m Matheus
+🔍 Data Analyst | 📊 Business Intelligence | 🤖 Data Science | 💻 Computer Science Student
+<div align="center">
 
-- 🔭 I'm currently studying 
-- 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me: Linkedin : [https://linkedin.com/matheus-yusuke](https://www.linkedin.com/in/matheus-yusuke/)
-- ⚡ Fun fact: I love to study and help in what I can... 🙂
+✨ Transformo dados em decisões.
+Apaixonado por tecnologia, análise e criação de soluções inteligentes que geram impacto real.
 
-Stats : 
+</div>
+🚀 Sobre mim
 
+🎓 Estudante de Ciência da Computação (USJT) — 4º semestre
 
+📈 Atuação focada em Analytics, Data Science e Business Intelligence
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+🧠 Aprendendo continuamente sobre Python, SQL, Machine Learning, Power BI e Estatística
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Japu431&show_icons=true&theme=radical)
+🤝 Buscando colaborar em projetos de Análise de Dados, ETL, Dashboards e Ciência de Dados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Japu431&layout=compact&show_icons=true&theme=radical)
+💼 Interesse em vagas Júnior / Pleno na área de Dados
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+🌎 Trabalhando atualmente como Analista de Negócios Pleno
 
+⚡ Fun fact: adoro estudar, testar coisas novas e ajudar outras pessoas a evoluírem 💡
+
+🛠️ Tech Stack
+
+Linguagens & Ferramentas:
+
+🔹 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
+🔹 SQL (MySQL, PostgreSQL, SQL Server)
+🔹 Power BI | Excel | Google Sheets
+🔹 Git & GitHub
+🔹 APIs & Web Scraping
+🔹 Machine Learning (fundamentos, regressão, classificação, métricas)
+🔹 Data Visualization & Storytelling
+
+📂 Projetos em Destaque
+
+(Se quiser, posso montar cards com links reais dos seus repositórios!)
+
+📊 Dashboard de Análise de Vendas – Power BI
+
+🔍 ETL completo com Python + SQL
+
+🤖 Modelo de Machine Learning para previsão
+
+📈 Data Analysis – Exploratory Data Analysis (EDA)
+
+📊 GitHub Stats
+<div align="center">
+
+</div>
+🌐 Onde me encontrar
+
+📩 LinkedIn: linkedin.com/in/matheus-yusuke
+
+📧 Email: (coloco se quiser)
+
+<div align="center"> <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
+💙 Obrigado por visitar meu perfil!
+Sempre aberto para conexões, ideias e novos projetos!
+
+</div>
