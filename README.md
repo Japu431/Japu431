@@ -1,64 +1,75 @@
-👋 Hey, I’m Matheus
-🔍 Data Analyst | 📊 Business Intelligence | 🤖 Data Science | 💻 Computer Science Student
-<div align="center">
+# 👋 Hey, I’m **Matheus**  
+### 🔍 Data Analyst | 📊 Business Intelligence | 🤖 Data Science | 💻 Computer Science Student
 
-✨ Transformo dados em decisões.
+---
+
+<div align="center">
+  
+✨ <strong>Transformo dados em decisões.</strong>  
 Apaixonado por tecnologia, análise e criação de soluções inteligentes que geram impacto real.
 
 </div>
-🚀 Sobre mim
 
-🎓 Estudante de Ciência da Computação (USJT) — 4º semestre
+---
 
-📈 Atuação focada em Analytics, Data Science e Business Intelligence
+## 🚀 Sobre mim
+- 🎓 Estudante de **Ciência da Computação (USJT)** — 4º semestre  
+- 📈 Atuação focada em **Analytics, Data Science e Business Intelligence**  
+- 🧠 Aprendendo continuamente sobre **Python, SQL, Machine Learning, Power BI e Estatística**  
+- 🤝 Buscando colaborar em projetos de **Análise de Dados, ETL, Dashboards e Ciência de Dados**  
+- 💼 Interesse em vagas **Júnior / Pleno** na área de Dados  
+- 🌎 Trabalhando atualmente como **Analista de Negócios Pleno**  
+- ⚡ Fun fact: adoro estudar, testar coisas novas e ajudar outras pessoas a evoluírem 💡
 
-🧠 Aprendendo continuamente sobre Python, SQL, Machine Learning, Power BI e Estatística
+---
 
-🤝 Buscando colaborar em projetos de Análise de Dados, ETL, Dashboards e Ciência de Dados
+## 🛠️ Tech Stack
 
-💼 Interesse em vagas Júnior / Pleno na área de Dados
+**Linguagens & Ferramentas:**
 
-🌎 Trabalhando atualmente como Analista de Negócios Pleno
+- 🔹 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)  
+- 🔹 SQL (MySQL, PostgreSQL, SQL Server)  
+- 🔹 Power BI | Excel | Google Sheets  
+- 🔹 Git & GitHub  
+- 🔹 APIs & Web Scraping  
+- 🔹 Machine Learning (regressão, classificação, métricas)  
+- 🔹 Data Visualization & Storytelling  
 
-⚡ Fun fact: adoro estudar, testar coisas novas e ajudar outras pessoas a evoluírem 💡
+---
 
-🛠️ Tech Stack
+## 📂 Projetos em Destaque
+*(Adicione os links conforme for postando seus projetos!)*
 
-Linguagens & Ferramentas:
+- 📊 **Dashboard de Análise de Vendas – Power BI**  
+- 🔍 **ETL completo com Python + SQL**  
+- 🤖 **Modelo de Machine Learning para previsão**  
+- 📈 **Data Analysis – Exploratory Data Analysis (EDA)**  
 
-🔹 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
-🔹 SQL (MySQL, PostgreSQL, SQL Server)
-🔹 Power BI | Excel | Google Sheets
-🔹 Git & GitHub
-🔹 APIs & Web Scraping
-🔹 Machine Learning (fundamentos, regressão, classificação, métricas)
-🔹 Data Visualization & Storytelling
+---
 
-📂 Projetos em Destaque
+## 📊 GitHub Stats
 
-(Se quiser, posso montar cards com links reais dos seus repositórios!)
-
-📊 Dashboard de Análise de Vendas – Power BI
-
-🔍 ETL completo com Python + SQL
-
-🤖 Modelo de Machine Learning para previsão
-
-📈 Data Analysis – Exploratory Data Analysis (EDA)
-
-📊 GitHub Stats
 <div align="center">
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Japu431&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Japu431&layout=compact&show_icons=true&theme=radical)
+
 </div>
-🌐 Onde me encontrar
 
-📩 LinkedIn: linkedin.com/in/matheus-yusuke
+---
 
-📧 Email: (coloco se quiser)
+## 🌐 Onde me encontrar
 
-<div align="center"> <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+📩 **LinkedIn:** [linkedin.com/in/matheus-yusuke](https://www.linkedin.com/in/matheus-yusuke/)  
 
-💙 Obrigado por visitar meu perfil!
+---
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
+💙 <strong>Obrigado por visitar meu perfil!</strong>  
 Sempre aberto para conexões, ideias e novos projetos!
 
 </div>
