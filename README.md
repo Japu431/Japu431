@@ -1,5 +1,5 @@
 # 👋 Hey, I’m **Matheus**  
-### 🔍 Data Analyst | 📊 Business Intelligence | 🤖 Data Science | 💻 Computer Science Student
+### 🔍 Data Analyst | 📊 Business Intelligence & Analytics | 🤖 Data Science (Monitoramento de Modelos) | 💻 Computer Science Student
 
 ---
 
@@ -15,7 +15,7 @@ Apaixonado por tecnologia, análise e criação de soluções inteligentes que g
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Ciência da Computação (USJT)** — 4º semestre  
 - 📈 Atuação focada em **Analytics, Data Science e Business Intelligence**  
-- 🧠 Aprendendo continuamente sobre **Python, SQL, Machine Learning, Power BI e Estatística**  
+- 🧠 Aprendendo continuamente sobre **Python, SQL, Machine Learning, Looker e Estatística**  
 - 🤝 Buscando colaborar em projetos de **Análise de Dados, ETL, Dashboards e Ciência de Dados**  
 - 💼 Interesse em vagas **Júnior / Pleno** na área de Dados  
 - 🌎 Trabalhando atualmente como **Analista de Negócios Pleno**  
@@ -27,12 +27,11 @@ Apaixonado por tecnologia, análise e criação de soluções inteligentes que g
 
 **Linguagens & Ferramentas:**
 
-- 🔹 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)  
-- 🔹 SQL (MySQL, PostgreSQL, SQL Server)  
+- 🔹 Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- 🔹 SQL (MySQL, SQL Server)  
 - 🔹 Power BI | Excel | Google Sheets  
 - 🔹 Git & GitHub  
 - 🔹 APIs & Web Scraping  
-- 🔹 Machine Learning (regressão, classificação, métricas)  
 - 🔹 Data Visualization & Storytelling  
 
 ---
@@ -40,7 +39,7 @@ Apaixonado por tecnologia, análise e criação de soluções inteligentes que g
 ## 📂 Projetos em Destaque
 *(Adicione os links conforme for postando seus projetos!)*
 
-- 📊 **Dashboard de Análise de Vendas – Power BI**  
+- 📊 **Dashboard de Análise de Vendas – Looker Studio**  
 - 🔍 **ETL completo com Python + SQL**  
 - 🤖 **Modelo de Machine Learning para previsão**  
 - 📈 **Data Analysis – Exploratory Data Analysis (EDA)**  
@@ -71,5 +70,6 @@ Apaixonado por tecnologia, análise e criação de soluções inteligentes que g
 
 💙 <strong>Obrigado por visitar meu perfil!</strong>  
 Sempre aberto para conexões, ideias e novos projetos!
+Tamo Junto 🚀🚀
 
 </div>
