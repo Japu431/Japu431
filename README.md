@@ -1,5 +1,5 @@
 # 👋 Hey, I’m **Matheus**  
-### 🔍 Data Analyst | 📊 Business Intelligence & Analytics | 🤖 Data Science (Monitoramento de Modelos) | 💻 Computer Science Student
+### 🔍 Data Analyst | 📊 Business Intelligence & Analytics | 🤖 Data Science | 💻 Computer Science Student
 
 ---
 
